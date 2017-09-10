@@ -1,0 +1,24 @@
+.mainarea {
+	margin-top: 10px;
+}
+.blog .row {
+	margin: 0;
+}
+.card-title {
+	margin-bottom: 15px !important;
+}
+.card .cardmenu {
+	float: right;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+.postid {
+	display: none;
+}
+.posteditid {
+	display: none;
+}
+.preloader-wrapper {
+	margin-left: 40px;
+	display: none;
+}
