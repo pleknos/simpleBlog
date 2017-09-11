@@ -9,6 +9,4 @@ class Sqlite extends Database {
 		
 	}
 }
-
 ?>
-
